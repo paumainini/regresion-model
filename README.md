@@ -26,6 +26,19 @@ The performance of the regression models is evaluated using metrics such as Mean
 
 The predictive model developed in this project aims to provide accurate estimates of real estate prices in Argentina, which can be valuable for both buyers and sellers in the real estate market.
 
+## Project Repository
+
+This repository contains files related to the predictive model project for real estate prices in Argentina.
+
+### Files
+
+- **DatasetFinal.csv:** This file contains the dataset used for analysis and development of the predictive model.
+- **Presentación TP2 - DH - Grupo 5.pptx:** PowerPoint presentation summarizing the findings and results of the project.
+- **README.md:** Markdown file providing an overview of the project and its structure.
+- **tp2.ipynb:** Jupyter Notebook file containing the source code and development process of the predictive model.
+
+
+
 ## Modelo de Regresión
 
 El objetivo de este proyecto es desarrollar un modelo predictivo para los precios de bienes raíces en Argentina utilizando técnicas de aprendizaje automático. El conjunto de datos utilizado para este propósito se obtiene de [Properati](https://www.properati.com.ar/), una plataforma de bienes raíces en línea.
@@ -53,3 +66,16 @@ El rendimiento de los modelos de regresión se evalúa utilizando métricas como
 ### Conclusión
 
 El modelo predictivo desarrollado en este proyecto tiene como objetivo proporcionar estimaciones precisas de los precios de bienes raíces en Argentina, lo cual puede ser valioso tanto para compradores como para vendedores en el mercado inmobiliario.
+
+## Repositorio del Proyecto
+
+Este repositorio contiene los archivos relacionados con el proyecto de modelo predictivo para precios de bienes raíces en Argentina.
+
+### Archivos
+
+- **DatasetFinal.csv:** Este archivo contiene el conjunto de datos utilizado para el análisis y desarrollo del modelo predictivo.
+- **Presentación TP2 - DH - Grupo 5.pptx:** Presentación en formato PowerPoint que resume los hallazgos y resultados del proyecto.
+- **README.md:** Archivo markdown que proporciona una descripción general del proyecto y su estructura.
+- **tp2.ipynb:** Archivo Jupyter Notebook que contiene el código fuente y el proceso de desarrollo del modelo predictivo.
+
+
